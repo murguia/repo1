@@ -1,1 +1,1 @@
-Repo1 version of foo.txt
+Repo1
