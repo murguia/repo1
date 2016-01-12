@@ -1,3 +1,1 @@
-pozbathis is a file. part part2.
-with a change...
-part 2
+Repo1 version of foo.txt
